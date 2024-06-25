@@ -142,7 +142,16 @@ body {
     width: 24px;
     height: 24px;
   }
-  
+
+  .footer-p{
+    font-size: 10px;
+  }
+  .all-right{
+    font-size: 10px;
+  }
+  .privacy-policy a{
+    text-decoration: underline;
+  }
   /* Media Queries for Mobile */
   @media only screen and (max-width: 600px) {
     .container {
