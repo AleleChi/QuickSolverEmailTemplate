@@ -28,9 +28,9 @@ body {
 
 .header {
   height: 80px;
-  width: 100%;
+  width: 560px;
   border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 10px rgba(1, 4, 0, 0.1);
   background-color: #0a5c35;
   color: #fff;
   padding: 20px;
